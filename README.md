@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Agim-dudu)
 <h1 align="center">Hi 👋, I'm M. Gymnastiar</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align ="right" alt="Coding" width="400" src="https://www.jagoanit.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-29-at-19.15.20-1024x922.png">
@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agim-dudu&label=Profile%20views&color=0e75b6&style=flat" alt="agim-dudu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [agimdudu.github.io](agimdudu.github.io)
 
 - 📫 How to reach me **agimduuduu@gmail.com**
 
